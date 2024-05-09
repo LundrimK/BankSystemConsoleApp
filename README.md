@@ -14,8 +14,6 @@ Usage
         Ensure you have Java installed on your system.
         Compile the Java files using a Java compiler. For example:
 
-        css
-
     javac Main.java
 
 Run the Application:
